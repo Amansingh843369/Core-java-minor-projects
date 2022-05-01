@@ -1,1 +1,1 @@
-# Core java projects are here  ::)
+# Core java projects are here  :)
