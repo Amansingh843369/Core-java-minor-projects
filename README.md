@@ -1,1 +1,1 @@
-# Core-java-minor-projects
+# Core java projects are here 
